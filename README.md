@@ -1,2 +1,2 @@
-# ML_notes
+# ML Notes
 My Machine Learning Notes and Algorithms
